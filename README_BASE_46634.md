@@ -1,3 +1,0 @@
-# gitLearningMergeRebase
-
-some changes
