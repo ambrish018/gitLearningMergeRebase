@@ -1,6 +1,8 @@
 # gitLearningMergeRebase
 
-some changes
+some changes//
+
+branch to merge created//
 
 
 remote changes//
